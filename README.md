@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shanto Noor</h1>
 <h3 align="center">A passionate software engineer from Bangladesh. I can create awesome `Full Stack Websites`</h3>
 
-- 🌱 I’m currently learning **NextJS**
-
 <h2 align="left">Socials</h2>
 <p align="center">
 <a href="https://linkedin.com/in/shantonoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantonoor" height="30" width="40" /></a>
